@@ -1,0 +1,16 @@
+Package: StatComp18072
+Type: Package
+Title: Example functions for 'Statistical Computing' course
+Version: 1.0
+Date: 2019-01-10
+Author: Yanchun zhao
+Maintainer: Yanchun zhao <yczhao@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: knitr,rmarkdown,datasets,xtable,boot,bootstrap,DAAG,RANN,energy,Ball,MASS,microbenchmark,lattice
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: http://github.com/fufuzhaoz/StatComp18072
+BugReports: http://github.com/fufuzhaoz/StatComp18072/issues
+Encoding: UTF-8
+
